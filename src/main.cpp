@@ -16,15 +16,9 @@ int main(int argc, char* argv[]) {
 
     // 设置日志级别
     spdlog::set_level(spdlog::level::debug);  // 设置最低日志级别为 DEBUG
-
-    // INFO 级别日志
-    spdlog::info("This is an info message");
-
-    // DEBUG 级别日志
-    spdlog::debug("This is a debug message");
-
-    // ERROR 级别日志
-    spdlog::error("This is an error message");
+    // spdlog::info("This is an info message");
+    // spdlog::debug("This is a debug message");
+    // spdlog::error("This is an error message");
 
     return 0;
 }

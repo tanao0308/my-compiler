@@ -1,0 +1,14 @@
+/root/Kaleidoscope/compiler/build/CMakeFiles/compiler_project.dir
+/root/Kaleidoscope/compiler/build/CMakeFiles/edit_cache.dir
+/root/Kaleidoscope/compiler/build/CMakeFiles/rebuild_cache.dir
+/root/Kaleidoscope/compiler/build/CMakeFiles/list_install_components.dir
+/root/Kaleidoscope/compiler/build/CMakeFiles/install.dir
+/root/Kaleidoscope/compiler/build/CMakeFiles/install/local.dir
+/root/Kaleidoscope/compiler/build/CMakeFiles/install/strip.dir
+/root/Kaleidoscope/compiler/build/third_party/spdlog/CMakeFiles/spdlog.dir
+/root/Kaleidoscope/compiler/build/third_party/spdlog/CMakeFiles/edit_cache.dir
+/root/Kaleidoscope/compiler/build/third_party/spdlog/CMakeFiles/rebuild_cache.dir
+/root/Kaleidoscope/compiler/build/third_party/spdlog/CMakeFiles/list_install_components.dir
+/root/Kaleidoscope/compiler/build/third_party/spdlog/CMakeFiles/install.dir
+/root/Kaleidoscope/compiler/build/third_party/spdlog/CMakeFiles/install/local.dir
+/root/Kaleidoscope/compiler/build/third_party/spdlog/CMakeFiles/install/strip.dir

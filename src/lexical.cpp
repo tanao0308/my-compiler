@@ -2,9 +2,14 @@
 
 using namespace std;
 
-queue<Token>;
+Token getNextToken(int p, string& raw_code) {
+    while(raw_code[p] && (raw_code[p] == ' ' || raw_code[p] == '\n'))
+        p++;
+    if(!raw_code[p])
+        return Token{.type = };
+}
 
-unique_ptr<queue<Token>> getalltoken(string filename) {
+unique_ptr<queue<Token>> getAllToken(string filename) {
     std::ifstream file(filename);
     if (!file.is_open()) {
         std::cerr << "Error opening source file!" << std::endl;
@@ -16,5 +21,6 @@ unique_ptr<queue<Token>> getalltoken(string filename) {
     std::cout << "code:\n" << raw_code << std::endl;
     file.close();  // 关闭文件
 
+    while()
     return nullptr;
 }

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/compiler_project.dir/src/lexical.cpp.o CMakeFiles/compiler_project.dir/src/main.cpp.o CMakeFiles/compiler_project.dir/src/syntax.cpp.o CMakeFiles/compiler_project.dir/src/utils.cpp.o -o compiler_project  third_party/spdlog/libspdlog.a 

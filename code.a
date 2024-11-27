@@ -1,0 +1,12 @@
+ 23%] Building CXX object third_party/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.o
+[ 30%] Building CXX object third_party/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.o
+[ 38%] Building CXX object third_party/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.o
+[ 46%] Building CXX object third_party/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.o
+[ 53%] Building CXX object third_party/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.o
+[ 61%] Linking CXX static library libspdlog.a
+[ 61%] Built target spdlog
+[ 69%] Building CXX object CMakeFiles/compiler_project.dir/src/lexical.cpp.o
+[ 76%] Building CXX object CMakeFiles/compiler_project.dir/src/main.cpp.o
+[ 84%] Building CXX object CMakeFiles/compiler_project.dir/src/syntax.cpp.o
+[ 92%] Building CXX object CMakeFiles/compiler_project.dir/src/utils.cpp.o
+[100%] Linking CXX executable compiler_project

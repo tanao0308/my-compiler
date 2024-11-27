@@ -7,9 +7,15 @@
 using namespace std;
 
 enum TokenType {
-    tok_number = -1,
-    tok_symbol = -2,
-    tok_eof = -3
+    tok_number,
+    tok_symbol,
+    tok_eof,
+    tok_if,
+    tok_if,
+    tok_if,
+    tok_if,
+    tok_if,
+    tok_if,
 };
 
 struct Token {
