@@ -1,0 +1,2 @@
+/root/Kaleidoscope/compiler/build/CMakeFiles/edit_cache.dir
+/root/Kaleidoscope/compiler/build/CMakeFiles/rebuild_cache.dir
